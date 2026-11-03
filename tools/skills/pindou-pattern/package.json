@@ -1,0 +1,9 @@
+{
+  "name": "pindou-pattern-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "拼豆图纸生成 skill：图片量化为 5 大品牌色号的拼豆施工图 PNG + CSV 物料清单，支持 AI 优化前置处理",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

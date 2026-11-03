@@ -1,0 +1,7 @@
+Method: built-in imagegen, image edit.
+Source: public/ChatGPT Image 2026年8月21日 11_50_09.png
+Output: public/bao-extracted.png
+This is an AI reconstruction with labels removed, not a lossless pixel crop.
+
+Prompt:
+Use case: precise-object-edit. Edit target: the supplied Chinese cat fuse-bead pattern sheet. Extract ONLY the cat artwork from the large rectangular numbered pixel chart on the LEFT of the sheet, as one clean standalone square raster image. Remove ALL surrounding page content: title, subtitle, coordinate numbers, legend, color swatches, right-hand preview panel, instructions, borders, and white page margins. Within the left chart remove ALL black grid lines and ALL printed digits/numbers; fill each cell using its original flat underlying color so only the clean cat pixel artwork remains. Preserve the source cat's exact tilted head orientation, distinctive huge dark eyes, pink nose, both ears, gray/brown and creamy white markings, original composition and chunky pixel shapes. Preserve the light gray/cream backdrop inside the chart; it is not a transparent cutout request. Use the chart artwork as the source, NOT the bead-textured thumbnail on the right. No text, no digits, no grid, no beads texture, no new decorative border. Do not redesign or add accessories. The extracted pixel cat image should fill the output edge to edge, square composition.
